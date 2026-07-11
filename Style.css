@@ -1,0 +1,15 @@
+body{
+    background-color:#f4f8fc;
+    font-family:Arial, sans-serif;
+    padding:20px;
+}
+
+h2{
+    color:#003366;
+    border-bottom:2px solid #0066cc;
+}
+
+p{
+    font-size:18px;
+    line-height:1.5;
+}
